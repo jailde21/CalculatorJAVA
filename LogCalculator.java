@@ -81,7 +81,7 @@ public class LogCalculator
             }
 
 
-            System.out.println("\nПовтор вычислений [n/y] : ");
+            System.out.println("\nПовтор вычислений [n/y] :жопа ");
             String choice = in.next().toLowerCase();
 
             if(choice.equals("n") || choice.equals("no"))
